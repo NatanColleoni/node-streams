@@ -128,3 +128,4 @@ dist
 
 *.ndjson
 *.ndjson
+00-broken-node/big-file.txt
