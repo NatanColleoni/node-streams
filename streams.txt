@@ -1,0 +1,8 @@
+STREAMS - dados sob demanda
+
+- Readable
+	- Tudo que pode ser lido
+- Transform
+	- Proceso de transformação, filtros e tratamento dos dados
+- Writable
+	- Produto final
